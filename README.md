@@ -2,9 +2,9 @@
 
 This is something new. A test basically.
 
-[link to youtube](www.youtube.com)
-[link to github](www.github.com)
-[link to arduino](www.arduino.cc)
+-[link to youtube](www.youtube.com)
+-[link to github](www.github.com)
+-[link to arduino](www.arduino.cc)
 
 ### Markdown
 
