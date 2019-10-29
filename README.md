@@ -2,13 +2,13 @@
 
 This is something new. A test basically.
 
--[link to youtube](www.youtube.com)
--[link to github](www.github.com)
--[link to arduino](www.arduino.cc)
+* [link to youtube](www.youtube.com)
+* [link to github](www.github.com)
+* [link to arduino](www.arduino.cc)
 
 ### Markdown
 
-test program 
+Arduino program to blink led and buzzer when button is pressed
 
 ```markdown
                     // initializing buzzer, led and button to pin 1,2 and 3 respectively.
